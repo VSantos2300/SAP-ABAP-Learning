@@ -1,6 +1,6 @@
 # SAP-ABAP-Learning
 0% - 100%
-# ABAP Hello World 🚀
+# ABAP Hello World
 
 Este es mi primer programa en ABAP: **Z_HELLO_WORLD_VINI**
 
