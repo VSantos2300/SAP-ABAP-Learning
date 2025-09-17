@@ -1,0 +1,4 @@
+REPORT Z_HELLO_WORLD_VINI.
+
+WRITE: 'Hola Mundo, soy Vinícius',
+       / 'Hoy es:', SY-DATUM.
